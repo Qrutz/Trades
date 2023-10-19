@@ -11,9 +11,17 @@
 #### Trades Made
 
 1. **Stock/Asset:** BEAR TESLA X10 SG35
-   - **Entry Price:** 11,34
-   - **Exit Price:** 
+   - **Entry Price:** 11,34kr
+   - **Exit Price:**  18,08kr
+   - **Position dollar ammount:** 2100kr
+   - **Profit/Loss:** 65% Profit
+  
+### 2023-10-19
+
+#### Trades Made
+Starting capital: 3327
+1. **Stock/Asset:** x
+   - **Entry Price:** x
+   - **Exit Price:**  x
    - **Position dollar ammount:** 2100
    - **Profit/Loss:** 
-   - **Reason for Trade:** ER FLOP
-   - **Outcome Analysis:** tbd
