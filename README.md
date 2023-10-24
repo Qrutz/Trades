@@ -16,12 +16,12 @@
    - **Position dollar ammount:** 2100kr
    - **Profit/Loss:** 65% Profit
   
-### 2023-10-19
+### 2023-10-20
 
 #### Trades Made
 Starting capital: 3327
-1. **Stock/Asset:** x
-   - **Entry Price:** x
-   - **Exit Price:**  x
-   - **Position dollar ammount:** 2100
-   - **Profit/Loss:** 
+1. **Stock/Asset:** MFL NVIDIA VT413
+   - **Entry Price:** 2,24
+   - **Exit Price:**  2.05
+   - **Position dollar ammount:** 3306kr
+   - **Profit/Loss:** -7%
