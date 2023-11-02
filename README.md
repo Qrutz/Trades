@@ -63,4 +63,18 @@
    - **Exit Price:**  14,50
    - **Profit/Loss:** 107%
 
-EOW CAPITAL == 5000
+### 2023-10-31
+#### Trades Made
+1. **Stock/Asset:** TURBO S AMD BNP20
+   - **Entry Price:** 255
+   - **Exit Price:**  knocked out
+   - **Profit/Loss:** -100%
+
+### 2023-11-01
+#### Trades Made
+1. **Stock/Asset:** MINI L PALANTIR NORDNET 78
+   - **Entry Price:** 1,98
+   - **Exit Price:**  4,46
+   - **Profit/Loss:** 126%
+
+
