@@ -78,3 +78,10 @@
    - **Profit/Loss:** 126%
 
 
+### 2023-11-02
+#### Trades Made
+1. **Stock/Asset:** B LONGAPP U SG
+   - **Entry Price:** 13,76
+   - **Exit Price:**  12,55
+   - **Profit/Loss:** -8%
+
