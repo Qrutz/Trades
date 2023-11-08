@@ -85,3 +85,16 @@
    - **Exit Price:**  12,55
    - **Profit/Loss:** -8%
 
+### 2023-11-08
+#### Trades Made
+1. **Stock/Asset:** MINI L ROBLOX AVA 31
+   - **Entry Price:** 10,63
+   - **Exit Price:**  15,00
+   - **Profit/Loss:** 48%
+
+2. **Stock/Asset:** B LONGTSLA BT6 SG
+   - **Entry Price:** 10,09
+   - **Exit Price:**  9,10
+   - **Profit/Loss:** -10%
+
+
