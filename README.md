@@ -97,4 +97,19 @@
    - **Exit Price:**  9,10
    - **Profit/Loss:** -10%
 
+### 2023-11-09
+#### Trades Made
+1. **Stock/Asset:** B LONGDIS U SG
+   - **Entry Price:** 13,37
+   - **Exit Price:**  18,77 SEK
+   - **Profit/Loss:** 41%
+
+2. **Stock/Asset:** B SHRTARM 2 SG
+   - **Entry Price:** 7,46
+   - **Exit Price:**  10,21
+   - **Profit/Loss:** 37%
+
+CURRENT CAPITAL 10K
+Mission completed , 5x'd in 19 days ish
+
 
