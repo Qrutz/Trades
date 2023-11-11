@@ -112,4 +112,21 @@
 CURRENT CAPITAL 10K
 Mission completed , 5x'd in 19 days ish
 
+### 2023-11-10
+#### Trades Made
+1. **Stock/Asset:** TLNG TESLA VT1066
+   - **Entry Price:** 10,22
+   - **Exit Price:**  13,04
+   - **Profit/Loss:** 31%
+  
+2. **Stock/Asset:** BULL PLUG X6 SG12
+   - **Entry Price:** 5,40
+   - **Exit Price:**  0.001 knocked the fook out
+   - **Profit/Loss:** -100%
+
+3. **Stock/Asset:** MFS PLTR VT236
+   - **Entry Price:** 1,36
+   - **Exit Price:**  1,21
+   - **Profit/Loss:** -11%
+    
 
